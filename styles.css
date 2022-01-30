@@ -1,0 +1,21 @@
+.main-title {
+    background-color: black;
+    color: white;
+    font-family: Times, sans-serif;
+    text-align: center;
+}
+
+.unordered-list {
+    text-align: center;
+    background-color: aqua;
+}
+
+.ordered-list {
+    text-align: center;
+    background-color: azure;
+}
+
+.section-titles {
+    text-align: left;
+    background-color: red;
+}
